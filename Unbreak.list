@@ -1,0 +1,38 @@
+# 打破
+# > 常规
+域名，app.adjust.com，直接
+域名，app.appsflyer.com，直接
+域名,bdtj.tagtic.cn,DIRECT
+# > 阿里巴巴
+域名，log.mmstat.com，直接
+域名，sycm.mmstat.com，直接
+# > 谷歌
+域名后缀，blog.google，DIRECT
+域名后缀,googletraveladservices.com,DIRECT
+域名，clientservices.googleapis.com，直接
+域名，update.googleapis.com，直接
+域名，dl.google.com，直接
+域名，dl.l.google.com，直接
+域名，update.googleapis.com，直接
+# >> Firebase 云消息传递
+域名，mtalk.google.com，直接
+域名，alt1-mtalk.google.com，直接
+域名，alt2-mtalk.google.com，直接
+域名，alt3-mtalk.google.com，直接
+域名，alt4-mtalk.google.com，直接
+域名，alt5-mtalk.google.com，直接
+域名，alt6-mtalk.google.com，直接
+域名，alt7-mtalk.google.com，直接
+域名，alt8-mtalk.google.com，直接
+# >> 派拉蒙+
+# 域名,pubads.g.doubleclick.net,DIRECT
+# > 腾讯
+域名,fairplay.l.qq.com,DIRECT
+域名,livew.l.qq.com,DIRECT
+域名,vd.l.qq.com,DIRECT
+域名,vi.l.qq.com,DIRECT
+# > 斯特拉瓦
+域名,analytics.strava.com,DIRECT
+# > 萌萌
+域名,msg.umeng.com,DIRECT
+域名,msg.umengcloud.com,DIRECT
